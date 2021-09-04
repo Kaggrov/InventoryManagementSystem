@@ -1,0 +1,6 @@
+Sales Analysis 
+Maximum Items bought from store :
+ Item name : MotherDairy 
+Quantity : 50 
+Total Value : 6000 
+Category : Milk 

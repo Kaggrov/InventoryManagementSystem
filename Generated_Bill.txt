@@ -1,0 +1,17 @@
+Item purchased : ClassMate 
+Price : 250 
+Product Category : Notebook 
+ Quantity : 20 
+Item purchased : Fevistick 
+Price : 170 
+Product Category : Stationary 
+ Quantity : 30 
+Item purchased : MotherDairy 
+Price : 120 
+Product Category : Milk 
+ Quantity : 50 
+
+
+
+
+Total Bill : 16100
