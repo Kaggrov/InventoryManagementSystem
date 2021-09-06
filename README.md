@@ -20,4 +20,6 @@
 
 9. Update the Items of inventory i.e. their attributes
 
-10. Main DashBoard to controll All operations
+10. Inventory.json file that contains all products
+
+11. Main DashBoard to controll All operations
